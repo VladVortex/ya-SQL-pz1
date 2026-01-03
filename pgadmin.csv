@@ -1,4 +1,4 @@
-"route_no","departure_airport","arrival_airport","departure_airport_name","actual_arrival_utc"
+"route_no","departure_airport","arrival_airport","departure_airport_name","actual_arrival"
 "PG0063","VKO","LED","Внуково","2025-11-30 23:55:34.369204"
 "PG0063","VKO","LED","Внуково","2025-11-30 23:55:34.369204"
 "PG0063","VKO","LED","Внуково","2025-11-30 23:55:34.369204"
@@ -19,3 +19,4 @@
 "PG0414","PVG","HND","Пудун","2025-11-30 22:47:53.064747"
 "PG0112","BOM","MAA","Чхатрапати Шиваджи","2025-11-30 22:07:36.156209"
 "PG0112","BOM","MAA","Чхатрапати Шиваджи","2025-11-30 22:07:36.156209"
+
